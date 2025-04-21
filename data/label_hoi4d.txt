@@ -1,0 +1,16 @@
+Toy Car
+Mug
+Laptop
+Storage Furniture
+Bottle
+Safe
+Bowl
+Bucket
+Scissors
+Pliers
+Kettle
+Knife
+Trash Can
+Lamp
+Stapler
+Chair
