@@ -1,0 +1,11 @@
+Label | Precision | Recall | F1-score
+-----------------------------------
+Mug                            | 0.9303 | 0.9746 | 0.9519
+Bottle                         | 0.9554 | 0.9259 | 0.9404
+Knife                          | 0.8542 | 0.9615 | 0.9047
+Lamp                           | 0.9737 | 0.8620 | 0.9144
+
+Overall Metrics:
+Precision: 0.9336
+Recall: 0.9302
+F1-score: 0.9302

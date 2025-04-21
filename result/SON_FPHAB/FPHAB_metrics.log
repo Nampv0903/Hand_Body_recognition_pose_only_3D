@@ -1,0 +1,52 @@
+Label | Precision | Recall | F1-score
+-----------------------------------
+wirte                          | 0.0000 | 0.0000 | 0.0000
+wash_sponge                    | 0.9524 | 0.9091 | 0.9302
+use_flash                      | 0.9583 | 1.0000 | 0.9787
+use_calculator                 | 0.5714 | 0.7273 | 0.6400
+unfold_glasses                 | 0.9189 | 0.9714 | 0.9444
+toast_wine                     | 1.0000 | 1.0000 | 1.0000
+tear_paper                     | 0.9091 | 0.8929 | 0.9009
+take_letter_from_enveloppe     | 0.3182 | 0.7000 | 0.4375
+stir                           | 1.0000 | 0.9412 | 0.9697
+squeeze_sponge                 | 0.6364 | 0.7000 | 0.6667
+squeeze_paper                  | 0.7436 | 0.7632 | 0.7532
+sprinkle                       | 1.0000 | 0.9565 | 0.9778
+scratch_sponge                 | 0.9000 | 0.9000 | 0.9000
+scoop_spoon                    | 0.6000 | 0.7500 | 0.6667
+receive_coin                   | 0.9231 | 0.9231 | 0.9231
+read_letter                    | 0.8571 | 0.7200 | 0.7826
+put_tea_bag                    | 1.0000 | 0.6364 | 0.7778
+put_sugar                      | 0.4286 | 0.4286 | 0.4286
+put_salt                       | 1.0000 | 1.0000 | 1.0000
+prick                          | 0.8889 | 0.6667 | 0.7619
+pour_wine                      | 0.9722 | 1.0000 | 0.9859
+pour_milk                      | 0.9615 | 1.0000 | 0.9804
+pour_liquid_soap               | 0.8621 | 1.0000 | 0.9259
+pour_juice_bottle              | 1.0000 | 1.0000 | 1.0000
+open_wallet                    | 0.0000 | 0.0000 | 0.0000
+open_soda_can                  | 0.7857 | 0.9167 | 0.8462
+open_peanut_butter             | 0.7857 | 0.8800 | 0.8302
+open_milk                      | 0.8696 | 1.0000 | 0.9302
+open_liquid_soap               | 0.0000 | 0.0000 | 0.0000
+open_letter                    | 0.7561 | 0.7750 | 0.7654
+open_juice_bottle              | 0.8235 | 0.7368 | 0.7778
+light_candle                   | 0.7500 | 0.9600 | 0.8421
+high_five                      | 1.0000 | 1.0000 | 1.0000
+handshake                      | 0.9565 | 1.0000 | 0.9778
+give_coin                      | 0.6154 | 0.6667 | 0.6400
+give_card                      | 0.7692 | 0.9091 | 0.8333
+flip_sponge                    | 0.6000 | 0.3750 | 0.4615
+flip_pages                     | 0.9630 | 0.8667 | 0.9123
+drink_mug                      | 0.9474 | 0.9474 | 0.9474
+close_peanut_butter            | 0.8889 | 0.7619 | 0.8205
+close_milk                     | 0.7576 | 0.9615 | 0.8475
+close_liquid_soap              | 0.7000 | 0.6364 | 0.6667
+close_juice_bottle             | 1.0000 | 0.6000 | 0.7500
+clean_glasses                  | 0.9318 | 0.9318 | 0.9318
+charge_cell_phone              | 0.8333 | 0.5882 | 0.6897
+
+Overall Metrics:
+Precision: 0.8659
+Recall: 0.8553
+F1-score: 0.8545
