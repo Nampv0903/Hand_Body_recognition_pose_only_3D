@@ -1,0 +1,12 @@
+name: ddnet
+
+dependencies:
+  - opencv
+  - python=3.8
+  - matplotlib
+  - numpy
+  - pytorch
+  - tqdm
+  - git
+  - pip:
+    - git+https://github.com/hassony2/chumpy.git
